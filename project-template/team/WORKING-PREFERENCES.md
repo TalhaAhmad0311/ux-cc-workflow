@@ -1,6 +1,6 @@
 # How the user likes to work (every session follows this)
 
-## Talking to the user (the Head of Product does this; sub-agents report to the Head of Product in files)
+## Talking to the user (the Manager and the Chief of Design do this; sub-agents report to the Manager in files)
 - Short, clear updates, one step at a time. Plain words, no jargon.
 - **One question at a time.** Put the recommended option first, and give buttons where the app offers them.
 - Never ask about something the user has already decided, or something a session can settle itself.
@@ -11,7 +11,7 @@
 ## Decisions and approvals
 - Confirm before anything outward-facing: pushes, deploys, publishing, messages to other people.
 - **Standing permissions:**
-  - the Head of Product decides its own succession;
+  - the Chief of Design decides successions for Managers;
   - "do whatever necessary, let me know if you need permissions": act within your role, ask only for a real block.
 - Follow the spec as final. Don't invent features, pages or "what ifs". Flag new scope to the user instead.
 - Where copy isn't written, write a short, neutral, finished-sounding line. Never use `[Placeholder]` tags.
@@ -30,5 +30,5 @@
 
 ## Team hygiene
 - Edit only your own files. Never switch branches, stash or reset in the shared folder; other sessions have work there.
-- The Head of Product retires at a clean point at 300K context and becomes an Advisor (see Succession in `ORG-CHART.md`).
+- Managers retire at a clean point at 300K context and become Advisors (see Succession in `ORG-CHART.md`).
 - Keep `ORG-CHART.md` true: ids, titles and sidebar groups.

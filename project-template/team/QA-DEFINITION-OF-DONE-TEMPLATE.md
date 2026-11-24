@@ -1,6 +1,6 @@
 # QA definition of done (template)
 
-The Head of Product has an agent copy this to `team/notes/qa-definition-of-done.md` and fill it in for the project. It's the bar for every **Release audit**: a piece of work is done only when every applicable line
+The Manager has an agent copy this to `team/notes/qa-definition-of-done.md` and fill it in for the project. It's the bar for every **Release audit**: a piece of work is done only when every applicable line
 passes, on the current working tree.
 
 ## 0. How every audit runs
