@@ -46,6 +46,8 @@ Every job has its own folder: `team/work/<NNN>-<job>/`.
 - The agent's outputs, plus `report.md`: what changed, which files, how it was checked, what wasn't checked, flags.
 - **The agent's reply to the Manager is one line plus the path to `report.md`.** Full results stay in files, so the
   Manager's context stays light.
+- **If an agent can't save files** (its Write tool refuses): it returns the report as text in its reply, and the
+  Manager saves it straight to `report.md` in the job folder without reading it all.
 - `team/notes/board.md`: the Manager's board, one row per job: id, job, model, status, report path.
 - Decisions go in `team/notes/project-rules.md` and `team/notes/project-background.md`, quoting the user. These
   files, not long chats, are the project's memory.

@@ -12,7 +12,7 @@ Above every project sits the **Chief of Design**. It manages the Managers and do
 - **Started as "<Project> - Manager"?** Follow `team/START.md`. Took over from a predecessor? Read your note in
   `team/handover/` first.
 - **Are you a sub-agent?** Your brief is in `team/work/<NNN>-<job>/brief.md`. Edit only the files it lists, write
-  `report.md` next to it, and reply with one line plus that path. Don't start other agents.
+  `report.md` next to it (if you can't save files, return the report as text instead), and reply with one line plus that path. Don't start other agents.
 - The project's memory lives in files: `team/notes/` (board, background, rules) and `team/work/` (one folder per job).
 
 ## Project
