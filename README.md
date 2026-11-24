@@ -55,3 +55,7 @@ Full details, including what to do if your folder already has a `CLAUDE.md`, are
 - The Claude desktop app with the Code tab (the team uses its session tools: starting sessions, sidebar groups,
   pins, messages between sessions).
 - Optional: connectors for Jira, Google Calendar, Docs, Drive or Gmail, for the Personal Assistant.
+
+## Licence
+
+MIT. See [LICENSE](LICENSE).
